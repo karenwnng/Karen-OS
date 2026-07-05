@@ -1,7 +1,19 @@
-Changlog/
+# Changelog
 
-README.md
+## v0.1
 
-# Changlog
+Repository created.
 
-This folder contains all marketing changelog.
+README completed.
+
+Project Atlas officially started.
+
+---
+
+Next:
+
+Repository Structure
+
+ROADMAP
+
+Website
